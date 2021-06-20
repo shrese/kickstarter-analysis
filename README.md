@@ -1,3 +1,2 @@
-# kickstarter-analysis
-perform analysis for kickstarter to uncover trends
-Please do not use this repository - I was playing with the system
+# module activities
+### Please do not use this repository - I am uploading each module practice here
